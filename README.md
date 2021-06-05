@@ -20,11 +20,11 @@ Please find the accuracy scores of both the models:
 
 *Logistic regression*:**0.956140350877193**
 
-*Naive Bayes:**0.9385964912280702**
+*Naive Bayes*:**0.9385964912280702**
 
 So,clearly logistic regression model performed better than Naive Bayes for the same training and testing dataset.
 
-### This repository is public.Anyone can download in a .zip format or can be cloned using the link
+#### This repository is public.Anyone can download in a .zip format or can be cloned using the link
 
 ## Below is the description of Breast cancer Wisconsion (diagnostic) dataset.
 Breast cancer wisconsin (diagnostic) dataset
